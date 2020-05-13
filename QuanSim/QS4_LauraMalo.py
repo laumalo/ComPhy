@@ -426,7 +426,7 @@ in each case =0.8. As the computation time is very high for this plot, it is com
 remove the semmicolons before and after the lines of the code.
 """
 
-"""
+
 z_values = np.linspace(-3.0,3.0, num = 40)
 plt.figure()
 plt.subplot(2,3,1)
@@ -458,4 +458,4 @@ plt.subplot(2,3,6)
 plt.title('L=6')
 plt.imshow(paircorrelations_z(bloc = B6, omega = 0.8, z1_values = z_values, z2_values = z_values))
 plt.axis('off')
-plt.colorbar()"""
+plt.colorbar()
