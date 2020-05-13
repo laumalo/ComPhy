@@ -2,11 +2,8 @@
 """
 
 @author: Laura Malo
-
 Cours: Quantum simulators
-
 PROBLEM SET 3
-
 
 """
 
