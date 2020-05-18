@@ -6,6 +6,6 @@ List of projects contained in this repository:
 Project based on ...... as part of the Quantum Simulation course in my master degree in Physics. 
 Coded in Python. [Code Paper]
 
-## #PhaseTrans
+### PhaseTrans
 Project based on ..... as part of the Collective Phenomena and Phase Transition course in my bachelor degree in Physics. 
 Coded in Fortran [Code Paper]
